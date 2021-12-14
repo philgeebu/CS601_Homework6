@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "picture_a_file": "watch1a.jpg",
+    "picture_a_alt": "a lord matic watch",
+    "picture_b_file": "watch1b.jpg",
+    "picture_b_alt": "close-up of a lord matic watch"
+}, {
+    "id": 2,
+    "picture_a_file": "watch2a.jpg",
+    "picture_a_alt": "a seikomatic watch",
+    "picture_b_file": "watch2b.jpg",
+    "picture_b_alt": "close-up of a seikomatic watch"
+}, {
+    "id": 3,
+    "picture_a_file": "watch3a.jpg",
+    "picture_a_alt": "a king seiko watch",
+    "picture_b_file": "watch3b.jpg",
+    "picture_b_alt": "close-up of a king seiko watch"
+}, {
+    "id": 4,
+    "picture_a_file": "watch4a.jpg",
+    "picture_a_alt": "a sharp king seiko watch",
+    "picture_b_file": "watch4b.jpg",
+    "picture_b_alt": "close-up of a sharp king seiko watch"
+}]
